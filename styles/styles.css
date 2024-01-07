@@ -189,3 +189,78 @@
    
 }
 
+
+/* fifth section */
+
+.coming-soon{
+    max-width: 1320px;
+    display: flex;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top:120px;
+    justify-content: space-between;
+   
+
+}
+
+.new-offer, .year{
+    max-width: 350px;
+}
+
+
+
+.coming-soon .new-offer p{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.coming-soon .new-offer h2{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.coming-soon small{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.coming-soon .offer-image{
+    margin-left: 0;
+    width: 364.844px;
+    height: 364.844px;
+    flex-shrink: 0;
+    border-radius: 50%; 
+    padding: 35px; 
+    border: 15px solid #F00;
+    
+    
+}
+
+.coming-soon .year h3{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.year img{
+    width: 140px;
+    height: 140px;
+    flex-shrink: 0;
+    margin-top: 100px;
+}
