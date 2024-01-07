@@ -1,0 +1,41 @@
+.header {
+    background-image: url(../resources/Banner\ Image.png);
+    background-color: grey;
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    margin: 50px 90px;
+    text-align: center;
+}
+
+
+
+.banner{
+    
+    padding: 177px 344px;
+    
+}
+
+.banner-subtitle{
+    margin-top: 0;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 16px;
+}
+
+.banner-title{
+    margin-top: 0;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px; 
+}
