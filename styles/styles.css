@@ -39,3 +39,50 @@
     font-weight: 900;
     line-height: 95px; 
 }
+
+
+/* Section 2 */
+
+.category{
+    text-align: center;
+    width: 1500px;
+
+}
+.category > h1{
+    padding-top: 120px;
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 48px;
+}
+
+.category > p{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-bottom: 16px;
+}
+.category > h2{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 48px;
+}
+.category > img{
+    display: inline-block;
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    padding-bottom: 120px;
+
+}
