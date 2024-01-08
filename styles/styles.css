@@ -519,6 +519,9 @@ footer {
     padding-right: 200px;
 }
 
+.footer-content a{
+    text-decoration: none;
+}
 
 
 .footer-content img {
