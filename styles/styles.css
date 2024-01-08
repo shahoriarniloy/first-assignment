@@ -454,6 +454,7 @@
     width: 648px;
     height: 72px;
     flex-shrink: 0;
+
 }
 
 .subscribe-button {
@@ -467,6 +468,10 @@
     height: 80px;
     flex-shrink: 0;
 
+}
+.email-subscribe{
+    display: flex;
+    gap: 0;
 }
 
 ::placeholder {
