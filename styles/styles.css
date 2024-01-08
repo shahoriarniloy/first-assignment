@@ -473,7 +473,10 @@
     display: flex;
     gap: 0;
     display: flex;
-    justify-content: center;}
+    justify-content: center;
+    margin-bottom: 80px;
+
+}
 
 ::placeholder {
     color: rgba(7, 2, 17, 0.30);
