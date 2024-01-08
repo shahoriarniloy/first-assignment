@@ -333,7 +333,63 @@
     width: 429px;
     height: 433px;
     flex-shrink: 0;
-    
- 
 
 }
+
+/* Seventh Section */
+
+.portfolio{
+    max-width: 1320px;
+    margin: 120px 90px 120px 90px;
+}
+
+.portfolio p{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.portfolio h2{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.portfolio-details{
+    width: 896px;
+}
+.portfolio small{
+    
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;}
+
+.portfolio-gallary{
+    
+    flex-shrink: 0;
+    display: inline;
+    
+}
+
+.portfolio-gallary img{
+    padding: 6px;
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
+    border-radius: 16px;
+   
+}
+
+.gallary-row img:hover {
+    opacity: 0.5;
+  }
