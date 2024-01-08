@@ -472,7 +472,8 @@
 .email-subscribe{
     display: flex;
     gap: 0;
-}
+    display: flex;
+    justify-content: center;}
 
 ::placeholder {
     color: rgba(7, 2, 17, 0.30);
